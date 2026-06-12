@@ -1,0 +1,2 @@
+tuple=int(input("roll no: ")),input("name: "),input("course: "),input("city: ")
+print(tuple)
